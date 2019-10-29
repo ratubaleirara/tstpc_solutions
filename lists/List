@@ -1,0 +1,7 @@
+musicians = ["Bob Marley","Chris Martin","Lucky Dube","2Pac","Alan Jackson"]
+    print ("favorite musicians")
+    
+musicians [4] = "John Lennon"
+    print ("new favorite musicians")
+    
+musicians . append ("Gary Lightbody").    
